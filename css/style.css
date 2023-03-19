@@ -1,0 +1,18 @@
+div a:link{
+	color:red;
+}
+div a:visited{
+	color:aqua;
+}
+div a:hover{
+	color:green;
+	font-size:25px;
+}
+div a:active{
+	color:pink;
+}
+div #in:focus{
+	color:red;
+	outline:3px solid red;
+}
+
